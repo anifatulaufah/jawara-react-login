@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+.color{
+	background-color: #17A37F;
+	main-color: #336633;
+}
+
+#loader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
